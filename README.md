@@ -5,6 +5,6 @@ Required :
 
 Based on pyhton 2.7 with selenium 3.6.0 library	
 
-Run on the MacOs
+have run on the MacOs
 
 Browser: Safari 
