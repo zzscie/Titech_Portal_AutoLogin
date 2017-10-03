@@ -8,3 +8,8 @@ Based on pyhton 2.7 with selenium 3.6.0 library
 have run on the MacOs
 
 Browser: Safari 
+
+The student Id and password is being saved in the UserInfo.txt
+
+
+and the password Card Martix is being saved in the Card.txt
